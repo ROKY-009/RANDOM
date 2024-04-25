@@ -1,1 +1,4 @@
-imprt RNDM
+import os
+import RNDM
+ 
+ 
