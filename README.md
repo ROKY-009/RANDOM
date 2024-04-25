@@ -23,7 +23,7 @@ pip install bs4
 
 pkg install git
 
-rm -rf DUMP
+rm -rf RANDOM
 
 git clone https://github.com/MAHADI-143/DUMP.git
 
